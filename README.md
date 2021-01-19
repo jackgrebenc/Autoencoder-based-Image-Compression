@@ -7,7 +7,7 @@ The file 'Simple CAE MNIST.py' translates the work found from [1] into PyTorch a
 ## Results
 The orginal code from [1] using a stored format of 16 neurons yielded the following results:
 
-![alt text](https://github.com/jackgrebenc/Autoencoder-based-Image-Compression/blob/main/Output%20of%20original%20model.png)
+![alt text](https://github.com/jackgrebenc/Autoencoder-based-Image-Compression/blob/main/Output%20Images/Output%20of%20original%20model.png)
 
 The modified model had the following results for 16 neurons:
 
