@@ -11,7 +11,7 @@ The orginal code from [1] using a stored format of 16 neurons yielded the follow
 
 The modified model had the following results for 16 neurons:
 
-![alt text](https://github.com/jackgrebenc/Autoencoder-based-Image-Compression/blob/main/Output%20of%20modified%20model.png)
+![alt text](https://github.com/jackgrebenc/Autoencoder-based-Image-Compression/blob/main/Output%20Images/Output%20of%20modified%20model.png)
 
 ## References
 [1] https://blog.paperspace.com/autoencoder-image-compression-keras/ 
